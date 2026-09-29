@@ -14,8 +14,6 @@ Life in the United Kingdom (3rd edition)
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
 | 1215                | Magna Carta | The King is subject to the Law | 
-| 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
-| 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
 | 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
@@ -28,14 +26,12 @@ Life in the United Kingdom (3rd edition)
 | 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby) where the king's army is defeated |
 | 1649                | Britain republic | after Charles I is executed |
 | 1656                | fist Jews in England | since the Middle Ages |
-| 1658                | Lord Protector Oliver Cromwell dies | |
 | 1660                | Charles II comes back to be king | (he hid in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
 | _1679_            | Habeas Corpus | you must present the person in court |
 | _1685_            | James II | was James VII of Scotland, becomes king after Charles II dies |
 | 1689                | Glorious Revolution | William of Orange invades England | 
-| _1690_            | Battle of Byone | James flees to France with Jacobites supporters |
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
 | 1695                | Newspaper | can operate without government licence |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
