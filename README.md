@@ -30,7 +30,6 @@ Life in the United Kingdom (3rd edition)
 | 1665                | Plague | |
 | 1666                | Great Fire | |
 | _1679_            | Habeas Corpus | you must present the person in court |
-| _1685_            | James II | was James VII of Scotland, becomes king after Charles II dies |
 | 1689                | Glorious Revolution | William of Orange invades England | 
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
 | 1695                | Newspaper | can operate without government licence |
