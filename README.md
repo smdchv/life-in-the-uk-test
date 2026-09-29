@@ -33,7 +33,7 @@ Life in the United Kingdom (3rd edition)
 | 1689                | Glorious Revolution | William of Orange invades England | 
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
 | 1695                | Newspaper | can operate without government licence |
-| **1707**                | **Act of Union** |** Kingdom of Great Britain is created joining Scotland** |
+| **1707**                | **Act of Union** | **Kingdom of Great Britain is created joining Scotland** |
 | 1714                | King George I | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
 | 1776                | American colonies independence | 13 colonies declare independence from UK | 
 | 1783                | Britain recognise independence | |
