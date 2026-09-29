@@ -15,7 +15,7 @@ Life in the United Kingdom (3rd edition)
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
 | 1215                | Magna Carta | The King is subject to the Law | 
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
-| **1415 **               | **Battle of Agincourt** | **Henry V wins during the 100 years war against France** |
+| **1415**               | **Battle of Agincourt** | **Henry V wins during the 100 years war against France** |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
 | 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
 | **1560**                | **Scottish abolish the Pope** | |
