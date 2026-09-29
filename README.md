@@ -5,13 +5,13 @@ Life in the United Kingdom (3rd edition)
 
 | When | What | Details |
 | ---        | ---       | --- |
-|10,000yrs         | Britain separated | from the continent | 
-| 6,000yrs          | First farmers | come to Britain from South-East Europe |
-| 4,000yrs          | Bronze Age | then becomes Iron Age |
-| 55BC                  | Failed Roman invasion | Julius Caesar attempts first Roman led invasion but fails |
-| 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain |
-| 410                  | Romans end | Roman army leaves to defend Rome and never returns |
-| 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
+|10,000yrs            | Britain separated | from the continent | 
+| 6,000yrs            | First farmers | come to Britain from South-East Europe |
+| 4,000yrs            | Bronze Age | then becomes Iron Age |
+| 55BC                | Failed Roman invasion | Julius Caesar attempts first Roman led invasion but fails |
+| 43AD                | Successful Roman invasion | Emperor Claudius succesfully invaded Britain |
+| 410                 | Romans end | Roman army leaves to defend Rome and never returns |
+| 789                 | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
 | 1215                | Magna Carta | The King is subject to the Law | 
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
@@ -29,51 +29,48 @@ Life in the United Kingdom (3rd edition)
 | 1660                | Charles II comes back to be king | (he hid in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
-| _1679_            | Habeas Corpus | you must present the person in court |
+| _1679_              | Habeas Corpus | you must present the person in court |
 | 1689                | Glorious Revolution | William of Orange invades England | 
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
 | 1695                | Newspaper | can operate without government licence |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
 | 1714                | King George I | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
-| 1745-46           | Bonnie Prince Charlie | tries to get the throne with scots' help but looses at the battle of Culloden, after which Highland Cleareances |
 | 1776                | American colonies independence | 13 colonies declare independence from UK | 
 | 1783                | Britain recognise independence | |
-| _1789_            | Revolution in France | Napoleon starts war |
-| _1801_            | Ireland unifies with UK | Union Flag |
+| _1789_              | Revolution in France | Napoleon starts war |
+| _1801_              | Ireland unifies with UK | Union Flag |
 | 1805                | Battle of Trafalgar | Britain navy defeats spanish and france with admiral Nelson |
 | 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
 | 1833                | Emancipation Act | End of Slavery | 
 | 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |
-| 1840                | Punch Magazine | satirical magazine |
-| 1846                | Abolishment of Corn Laws | |
-| _1851_            | Great Exhibition | in Hyde Park, Crystal Palace |
-| _1853-56_      | Crimean Wars | Britain, France and Turkey fight Russia. First conflict that was reported on with photographs. |
-| _1861_            | Ireland famine | |
-| _1899-1902_   | Boer Wars | South Africa with Netherlands |
+| _1851_              | Great Exhibition | in Hyde Park, Crystal Palace |
+| _1853-56_           | Crimean Wars | Britain, France and Turkey fight Russia. First conflict that was reported on with photographs. |
+| _1861_              | Ireland famine | |
+| _1899-1902_         | Boer Wars | South Africa with Netherlands |
 | 1896                | first public screening of movies | |
 | 1902                | Motor-car racing in the UK started |
-| 1914-18          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
+| 1914-18             | WW1 | assassination of Austrian Archduke Franz Ferdinand |
 | 1918                | end of the WW1 on 11th of November, also women can vote at the age of 30 |
 | 1922                | Ireland becomes 2 countries / BBC radio | 6 protestant countries the rest is Irish Free State |
 | 1928                | women can vote at the same age of men, 21 |
 | 1929                | Great Depression | |
-| 1930s              | Touring Machine | |
+| 1930s               | Touring Machine | |
 | 1932                | invention of TV | by scotsman John Logie Baird |
 | 1935                | invention of Radar | by Sir Robert Watson-Watt |
 | 1936                | BBC first TV service | |
 | 1939                | WW2 | Germany invades Poland |
 | 1940                | Battle of Britain | aerial battle to fight "The Blitz" of german bombing UK |
-| _1940-44_     | The Dunkirk Spirit | evacuation of British and French troops as France falls, rescuing 300,000 people |
+| _1940-44_           | The Dunkirk Spirit | evacuation of British and French troops as France falls, rescuing 300,000 people |
 | 1944                | D-Day | Allies in Normandy to attack Germans |
 | 1945                | end of WW2 | German defeat, atom bomb in Japan|
 | 1945                | Labour Government | Clement Attlee is PM, nationalisation of industries and strong welfare |
 | 1947                | colonies independent | Britain give independence to 9 countries, including India, Pakistan and Ceylon(Sri Lanka) |
 | 1948                | NHS | by minister Aneurin (Nye) Bevan |
 | 1949                | Republic of Ireland | |C
-| 1951-64          | Conservative Government | probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
+| 1951-64             | Conservative Government | probably in this period Beveridge report (Social Insurance and Allied Services) and Butler with free secondary education |
 | 1957                | EEC | European Economic Community |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
-| 1969                | The Troubles | in Northen Ireland, , 3000 people died those years, women and men can vote at 18 |
+| 1969                | The Troubles | ethno-nationalist conflict in Northern Ireland, 3000 people died those years, women and men can vote at 18 |
 | 1972                | Northen Ireland parliament was suspended | |
 | 1973                | UK joins EEC | |
 | 1990                | WWW | Sir Tim Berners-Lee | 
