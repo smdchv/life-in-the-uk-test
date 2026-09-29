@@ -15,12 +15,12 @@ Life in the United Kingdom (3rd edition)
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
 | 1215                | Magna Carta | The King is subject to the Law | 
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
-| 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France |
+| **1415 **               | **Battle of Agincourt** | **Henry V wins during the 100 years war against France** |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
 | 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
-| 1560                | Scottish abolish the Pope | |
+| **1560**                | **Scottish abolish the Pope** | |
 | 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
-| 1603                | James I | End of the Tudor period, James VI of Scotland becomes king |
+| **1603**                | **James I** | **End of the Tudor period, James VI of Scotland becomes king** |
 | 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
 | 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby) where the king's army is defeated |
@@ -33,12 +33,12 @@ Life in the United Kingdom (3rd edition)
 | 1689                | Glorious Revolution | William of Orange invades England | 
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
 | 1695                | Newspaper | can operate without government licence |
-| 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
+| **1707**                | **Act of Union** |** Kingdom of Great Britain is created joining Scotland** |
 | 1714                | King George I | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
 | 1776                | American colonies independence | 13 colonies declare independence from UK | 
 | 1783                | Britain recognise independence | |
 | _1789_              | Revolution in France | Napoleon starts war |
-| _1801_              | Ireland unifies with UK | Union Flag |
+| **1801**              | **Ireland unifies with UK** | **Union Flag** |
 | 1805                | Battle of Trafalgar | Britain navy defeats spanish and france with admiral Nelson |
 | 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
 | 1833                | Emancipation Act | End of Slavery | 
@@ -48,7 +48,7 @@ Life in the United Kingdom (3rd edition)
 | _1861_              | Ireland famine | |
 | _1899-1902_         | Boer Wars | South Africa with Netherlands |
 | 1896                | first public screening of movies | |
-| 1902                | Motor-car racing in the UK started |
+| **1902**                |** Motor-car racing in the UK started** |
 | 1914-18             | WW1 | assassination of Austrian Archduke Franz Ferdinand |
 | 1918                | end of the WW1 on 11th of November, also women can vote at the age of 30 |
 | 1922                | Ireland becomes 2 countries / BBC radio | 6 protestant countries the rest is Irish Free State |
@@ -77,7 +77,7 @@ Life in the United Kingdom (3rd edition)
 | 1990                | UK wars | help liberate from Iraqi invasion of Kuwait and Former Republic of Yugoslavia |
 | 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly |
 | 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
-| 2009                | Britain leaves Iraq | |
+| **2009**                | **Britain leaves Iraq** | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
 | 2016                | Brexit Referendum | |
 | 2020                | UK left the European Union | |
