@@ -49,8 +49,8 @@ Life in the United Kingdom (3rd edition)
 | _1899-1902_         | Boer Wars | South Africa with Netherlands |
 | 1896                | first public screening of movies | |
 | **1902**            | **Motor-car racing in the UK started** |
-| 1914-18             | WW1 | assassination of Austrian Archduke Franz Ferdinand |
-| 1918                | end of the WW1 on 11th of November, also women can vote at the age of 30 |
+| 1914 - 11 Nov 1918  | WW1 | assassination of Austrian Archduke Franz Ferdinand |
+| 1918                | Women can vote at the age of 30 |
 | 1922                | Ireland becomes 2 countries / BBC radio | 6 protestant countries the rest is Irish Free State |
 | 1928                | women can vote at the same age of men, 21 |
 | 1929                | Great Depression | |
